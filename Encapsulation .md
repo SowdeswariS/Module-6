@@ -3,7 +3,6 @@
 ## 🎯 AIM
 
 To implement **Encapsulation** in Python by defining a class `Rectangle` with **private member variables** `__length` and `__breadth`.
-
 ---
 
 ## 🧠 ALGORITHM
