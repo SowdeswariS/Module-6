@@ -41,4 +41,4 @@ if(ob2<ob1):
 
 
 ## Result
-Thus the program that demonstrates operator overloading by overloading the less than (<) operator using a custom class is executed successfully
+Thus the program that demonstrates operator overloading by overloading the less than (<) operator using a custom class is executed successfully.
